@@ -31,3 +31,8 @@ For more information about using Ruby on Heroku, see these Dev Center articles:
 - [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 - [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 - [Heroku Ruby Support](https://devcenter.heroku.com/articles/ruby-support)
+
+## OpenShift
+The OpenShift `ruby` cartridge documentation can be found at:
+
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-ruby/README.md
